@@ -10,9 +10,9 @@ export const pagesContent = {
       keywords: ['local directory', 'reference library', 'directory site', 'reference downloads', 'curated discovery'],
     },
     hero: {
-      badge: 'Discover the platform',
-      title: ['Your calm home for the', 'directory & reference library.'],
-      description: `${slot4BrandConfig.siteName} pairs a curated local directory with a serious reference library so a single visit can move from "where do I go?" to "what do I read to understand it?" without switching sites.`,
+      badge: 'A calmer way to search',
+      title: ['Find what you need, then', 'really understand it.'],
+      description: `${slot4BrandConfig.siteName} pairs a hand-picked local directory with a growing reference library, so one visit gets you from browsing straight through to actually reading.`,
       primaryCta: { label: 'Browse the directory', href: '/listings' },
       secondaryCta: { label: 'Open the library', href: '/pdf' },
       searchPlaceholder: 'Search entries, references, categories…',

@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { ArrowUpRight, Github, Twitter, Linkedin } from 'lucide-react'
+import { ArrowUpRight } from 'lucide-react'
 import { SITE_CONFIG } from '@/lib/site-config'
 import { globalContent } from '@/editable/content/global.content'
 import { useEditableLocalAuthSession } from '@/editable/components/EditableLocalAuthForms'

@@ -81,7 +81,7 @@ export function EditableHomeHero({ primaryTask, primaryRoute, posts, timeSection
             </EditableReveal>
             <EditableReveal index={1}>
               <h1 className="editable-display mt-6 text-balance text-4xl font-medium leading-[1.05] tracking-[-0.02em] sm:text-5xl lg:text-[3.75rem]">
-                Your calm home for the <span className="editable-script">directory</span> & reference library.
+                Find what you need, then <span className="editable-script">really understand it</span>.
               </h1>
             </EditableReveal>
             <EditableReveal index={2}>
