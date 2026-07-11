@@ -7,8 +7,6 @@ import { Menu, Search, X, ArrowUpRight } from 'lucide-react'
 import { SITE_CONFIG } from '@/lib/site-config'
 import { useEditableLocalAuthSession } from '@/editable/components/EditableLocalAuthForms'
 
-const STATIC_LINKS: { label: string; href: string }[] = []
-
 export function EditableNavbar() {
   const [open, setOpen] = useState(false)
   const pathname = usePathname()
